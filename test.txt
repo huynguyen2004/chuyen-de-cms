@@ -1,0 +1,3 @@
+Tạo thử 1 file test.txt
+Pull lên thử trang https://githud.com
+Dùng SmatGit
